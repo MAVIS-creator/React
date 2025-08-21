@@ -1,2 +1,2 @@
 import React from 'react';
-const
+const App
